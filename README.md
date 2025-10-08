@@ -73,10 +73,10 @@ plt.show()
 
 ```
 # Output Waveform
-```
+
 <img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/2dc1dbb8-0aa8-458d-8adb-c43ac30ac861" />
 
-```
+
 # Results
 ```
 Attach the output waveform
