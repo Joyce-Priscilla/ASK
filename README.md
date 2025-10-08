@@ -180,5 +180,5 @@ print("Bit error rate:", np.mean(np.array(bits[:len(decoded_bits)]) != np.array(
 
 # Results
 
-Thus ,a simple Python program for the modulation and demodulation of ASK and FSK executed successfully.
+Thus , a simple Python program for the modulation and demodulation of ASK and FSK executed successfully.
 
